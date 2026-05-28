@@ -1,0 +1,24 @@
+{
+  "label": "2026-04-29 ~ 2026-05-28",
+  "date": "2026-04-29 ~ 2026-05-28",
+  "generated_at": "2026-05-28T13:49:59",
+  "count": 1,
+  "papers": [
+    {
+      "paper_id": "20260429-20260528/2605.25080v1-sl3z-is-not-howson",
+      "section": "quick",
+      "title_en": "SL(3,Z) is not Howson",
+      "authors": "Shengkui Ye, Qiang Zhang",
+      "date": "2026-05-24",
+      "pdf": "https://arxiv.org/pdf/2605.25080v1",
+      "score": "10.0",
+      "evidence": "通过构造子群交非有限生成，直接证明SL(3,Z)不具有Howson性质",
+      "tldr": "SL(3,Z)是否为Howson群（两有限生成子群的交仍有限生成）是群论中的一个问题。本文在标准抛物子群Z²⋊SL(2,Z)中构造了两个2生成子群，将它们的交转化为自由群在Z²上仿射作用的点稳定子，并通过分析Schreier图证明该稳定子非有限生成，从而给出SL(3,Z)不是Howson群的反例。进一步构造了秩为4的子群序列，使其交的秩可任意大但仍有限生成，深化了对SL(3,Z)子群结构的理解。",
+      "tags": "query:howson",
+      "abstract_en": "We give an explicit construction of two $2$-generated subgroups $H,K\\leq \\SL(3,\\Z)$ whose intersection is not finitely generated. The construction takes place inside the standard parabolic subgroup $\\Z^2\\rtimes \\SL(2,\\Z)\\leq \\SL(3,\\Z)$. The main point is to identify $H\\cap K$ with the stabilizer of a point for an affine action of a free group on $\\Z^2$, and then to prove, using the Schreier graph of this action, that this stabilizer is not finitely generated. Furthermore, we prove that there exists a sequence of subgroups $H_q, K_q \\leq \\SL(3,\\mathbb{Z})$ such that $\\rank(H_q)=\\rank(K_q)=4$, and \\[ \\rank(H_q\\cap K_q)\\geq q+1, \\] while $H_q\\cap K_q$ is finitely generated.",
+      "source": "arxiv",
+      "selection_source": "fresh_fetch"
+    }
+  ],
+  "errors": []
+}

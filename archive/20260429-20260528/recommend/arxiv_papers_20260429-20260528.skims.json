@@ -1,0 +1,54 @@
+{
+  "mode": "skims",
+  "generated_at": "2026-05-28T13:49:20.095996+00:00",
+  "stats": {
+    "mode": "skims",
+    "forced_all_quick": true,
+    "min_score": 8.0,
+    "deep_divecandidates": 1,
+    "deep_cap": null,
+    "deep_selected": 0,
+    "quick_candidates": 1,
+    "quick_skim_target": null,
+    "quick_selected": 1
+  },
+  "deep_dive": [],
+  "quick_skim": [
+    {
+      "id": "2605.25080v1",
+      "source": "arxiv",
+      "title": "SL(3,Z) is not Howson",
+      "abstract": "We give an explicit construction of two $2$-generated subgroups $H,K\\leq \\SL(3,\\Z)$ whose intersection is not finitely generated. The construction takes place inside the standard parabolic subgroup $\\Z^2\\rtimes \\SL(2,\\Z)\\leq \\SL(3,\\Z)$. The main point is to identify $H\\cap K$ with the stabilizer of a point for an affine action of a free group on $\\Z^2$, and then to prove, using the Schreier graph of this action, that this stabilizer is not finitely generated. Furthermore, we prove that there exists a sequence of subgroups $H_q, K_q \\leq \\SL(3,\\mathbb{Z})$ such that $\\rank(H_q)=\\rank(K_q)=4$, and \\[ \\rank(H_q\\cap K_q)\\geq q+1, \\] while $H_q\\cap K_q$ is finitely generated.",
+      "authors": [
+        "Shengkui Ye",
+        "Qiang Zhang"
+      ],
+      "primary_category": "math.GR",
+      "categories": [
+        "math.GR",
+        "math.GT"
+      ],
+      "published": "2026-05-24T13:45:25+00:00",
+      "link": "https://arxiv.org/pdf/2605.25080v1",
+      "tags": [
+        "keyword:howson",
+        "query:howson"
+      ],
+      "llm_score": 10.0,
+      "llm_evidence_en": "Directly proves SL(3,Z) does not have the Howson property via construction of subgroups with non-finitely generated intersection",
+      "llm_evidence_cn": "通过构造子群交非有限生成，直接证明SL(3,Z)不具有Howson性质",
+      "llm_evidence": "通过构造子群交非有限生成，直接证明SL(3,Z)不具有Howson性质",
+      "canonical_evidence": "通过构造子群交非有限生成，直接证明SL(3,Z)不具有Howson性质",
+      "llm_tldr_en": "This paper shows that SL(3,Z) is not a Howson group by constructing two 2-generated subgroups whose intersection is not finitely generated, using an affine action of a free group on Z^2 and analyzing its Schreier graph.",
+      "llm_tldr_cn": "论文研究SL(3,Z)的Howson性质。通过构造两个2生成子群，将其交与自由群在Z^2上的仿射作用的不动点稳定子等同，并利用Schreier图证明该稳定子非有限生成，从而证明了SL(3,Z)不具有Howson性质。此外还构造了一族子群使得交的秩可以任意大但有限生成。该工作给出了线性群中Howson性质的反例，对理解子群交的有限生成性有重要意义。",
+      "llm_tldr": "论文研究SL(3,Z)的Howson性质。通过构造两个2生成子群，将其交与自由群在Z^2上的仿射作用的不动点稳定子等同，并利用Schreier图证明该稳定子非有限生成，从而证明了SL(3,Z)不具有Howson性质。此外还构造了一族子群使得交的秩可以任意大但有限生成。该工作给出了线性群中Howson性质的反例，对理解子群交的有限生成性有重要意义。",
+      "llm_tags": [
+        "query:howson"
+      ],
+      "matched_query_tag": "query:howson",
+      "matched_query_text": "groups with the Howson property of subgroup intersections",
+      "matched_requirement_id": "req-1",
+      "selection_source": "fresh_fetch"
+    }
+  ]
+}
